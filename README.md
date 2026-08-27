@@ -104,14 +104,6 @@ cd programacion-I
 dotnet run
 ```
 
-### 4. Compilar el proyecto
-
-También puedes comprobar que el proyecto compile correctamente mediante:
-
-```bash
-dotnet build
-```
-
 ---
 
 ## 🖥️ Funcionamiento
