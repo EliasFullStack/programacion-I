@@ -1,0 +1,14 @@
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\bin\Debug\net11.0\Elias_Ortiz_ExpressCargo.exe
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\bin\Debug\net11.0\Elias_Ortiz_ExpressCargo.deps.json
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\bin\Debug\net11.0\Elias_Ortiz_ExpressCargo.runtimeconfig.json
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\bin\Debug\net11.0\Elias_Ortiz_ExpressCargo.dll
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\bin\Debug\net11.0\Elias_Ortiz_ExpressCargo.pdb
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.AssemblyInfoInputs.cache
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.AssemblyInfo.cs
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.csproj.CoreCompileInputs.cache
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.dll
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\refint\Elias_Ortiz_ExpressCargo.dll
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.pdb
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\Elias_Ortiz_ExpressCargo.genruntimeconfig.cache
+D:\Users\elias\Desktop\elias_ortiz\Elias_Ortiz_ExpressCargo\obj\Debug\net11.0\ref\Elias_Ortiz_ExpressCargo.dll
