@@ -120,7 +120,7 @@ Proceso finalizado.
 
 - **Elias Ortiz**  
   Estudiante de [nombre de la carrera]  
-  Repositorio: [https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo](https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo)
+  Repositorio: [https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo](https://github.com/EliasFullStack/programacion-I.git)
 
 ---
 
