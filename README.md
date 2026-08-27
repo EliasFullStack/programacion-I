@@ -1,3 +1,10 @@
+¡Perfecto! Aquí tienes el **README.md** actualizado con el enlace correcto a tu repositorio de GitHub.
+
+Simplemente copia todo el contenido que te dejo abajo, pégalo en tu archivo `README.md` (dentro de tu repositorio) y haz commit. Recuerda que ya debes haber eliminado las carpetas `bin` y `obj` y tener tu `.gitignore` listo.
+
+---
+
+```markdown
 # 🚚 ExpressCargo - Sistema de Gestión de Flota
 
 > Proyecto académico para la asignatura de Programación .NET.  
@@ -46,11 +53,11 @@ Elias_Ortiz_ExpressCargo/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo
+   git clone https://github.com/EliasFullStack/programacion-I.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd Elias_Ortiz_ExpressCargo
+   cd programacion-I
    ```
 3. Compila y ejecuta:
    ```bash
@@ -120,7 +127,7 @@ Proceso finalizado.
 
 - **Elias Ortiz**  
   Estudiante de [nombre de la carrera]  
-  Repositorio: [https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo](https://github.com/EliasFullStack/programacion-I.git)
+  Repositorio: [https://github.com/EliasFullStack/programacion-I](https://github.com/EliasFullStack/programacion-I)
 
 ---
 
@@ -131,3 +138,8 @@ Este proyecto es de uso educativo. Puede ser utilizado como referencia para el a
 ---
 
 > ¡Gracias por revisar este proyecto! Si tienes sugerencias o preguntas, no dudes en abrir un issue.
+
+> **Nota:** Las carpetas `bin/` y `obj/` son generadas automáticamente por el compilador y están excluidas del repositorio.
+```
+
+Con esto, tu repositorio ya tiene toda la documentación profesional, el enlace correcto y la nota sobre `bin/obj`. ¡Ya puedes compartirlo con confianza! 🚀
