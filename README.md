@@ -56,7 +56,7 @@ Elias_Ortiz_ExpressCargo/
 ## ⚙️ Tecnologías utilizadas
 
 * **C#**
-* **.NET 6.0 o superior**
+* **.NET 11.0**
 * Programación Orientada a Objetos (POO)
 * Herencia
 * Polimorfismo
