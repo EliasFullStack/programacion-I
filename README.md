@@ -7,7 +7,7 @@
 
 ## 📖 Descripción
 
-**ExpressCargo** es una aplicación de consola desarrollada en **C# y .NET** que simula la gestión de una flota de vehículos de reparto.
+**ExpressCargo** es una aplicación de consola desarrollada en **C#** que simula la gestión de una flota de vehículos de reparto.
 
 La empresa opera con dos tipos de vehículos:
 
