@@ -46,7 +46,7 @@ Elias_Ortiz_ExpressCargo/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo.git
+   git clone https://github.com/tu-usuario/Elias_Ortiz_ExpressCargo
    ```
 2. Navega al directorio del proyecto:
    ```bash
