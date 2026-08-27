@@ -1,6 +1,6 @@
 # 🚚 ExpressCargo - Sistema de Gestión de Flota
 
-> Proyecto académico para la asignatura de Programación .NET.
+> Proyecto académico para la asignatura de Programación I.
 > **Evaluación Unidad N°2** – Aplicación de herencia, polimorfismo, interfaces, colecciones, control de flujo y excepciones.
 
 ---
